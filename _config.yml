@@ -292,6 +292,3 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      comments: false
-      sidebar:
-        nav: "portfolio"

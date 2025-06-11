@@ -4,20 +4,6 @@ main:
   - title: "Portfolio" 
     url: /portfolio/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
   - title: "Contact"
     url: /contact/
-
-
-# Portfolio sidebar navigation
-portfolio:
-  - title: "Projects"
-    children:
-      - title: "Web Applications"
-        url: /portfolio/#web-apps
-      - title: "Data Science"
-        url: /portfolio/#data-science  
-      - title: "AI/ML Projects"
-        url: /portfolio/#ai-ml
-      - title: "Tools & Utilities"
-        url: /portfolio/#tools
